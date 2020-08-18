@@ -1,0 +1,19 @@
+.form-section {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+.form-margin {
+  margin: 0 10px;
+}
+
+mat-form-field{
+    margin-right:10px;
+}
+
+input.number-right-align::-webkit-outer-spin-button,
+input.number-right-align::-webkit-inner-spin-button {
+  display: none;
+}
